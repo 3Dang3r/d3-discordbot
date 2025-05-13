@@ -1,11 +1,5 @@
 # 🤖 FiveM Discord Server Status Bot
 
-A powerful Discord bot that monitors your FiveM server in real-time
-displays a live status embed 📊 in a designated channel. 
-Staff members are highlighted 🎓, and the bot automatically updates every 10 seconds 🔁.
-
----
-
 ## 🚀 Features
 
 - 📡 **Live Server Monitoring** – Fetches online player data from your FiveM server.
