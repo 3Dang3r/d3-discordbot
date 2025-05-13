@@ -54,7 +54,7 @@ Make sure you have Node.js installed. Then, open a terminal in your bot's folder
 
 `npm install`
 
-This installs all the required packages (like discord.js and discord-fivem-api).
+This installs all the required packages (like `discord.js` and `discord-fivem-api`).
 
 
 ## 🔑 2. Set Up Your Configuration
