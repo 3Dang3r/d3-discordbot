@@ -28,24 +28,12 @@ Staff members are highlighted 🎓, and the bot automatically updates every 10 s
 
 ### 2. 📁 File Structure
 
-project-folder/
+project-folder/```
 ├── config.json
 ├── messageData.json
 ├── events/
 │ └── ready.js
-├── index.js
-
-### 3. ⚙️ `config.json` Example
-
-``{
-  "StatusIP": "your.server.ip",
-  "port": "30120",
-  "guildid": "YOUR_GUILD_ID",
-  "fchannel": "CHANNEL_ID_FOR_STATUS",
-  "fmessage": "MESSAGE_ID_OF_FIRST_EMBED",
-  "servername": "Your Server Name",
-  "ip": "connect.yourserver.com"
-}``
+├── index.js```
 
 
 
