@@ -1,0 +1,14 @@
+{
+    "clientId": "clientid",
+    "token": "token",
+    "staffrole": "staffrole",
+    "servername": "Your Server Name",
+    "guildid": "guild id",
+    "fchannel": "your player list channel",
+    "fmessage": "message id",
+    "secondMessage": "",
+    "ip": "https://cfx.re/join/yourlink",
+    "StatusIP": "server ip",
+    "port": "your port (dif 30120)"
+
+}
