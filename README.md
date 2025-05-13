@@ -74,3 +74,28 @@ project-folder/
 🧩 API Used: [discord-fivem-api](https://github.com/xliel/discord-fivem-api)
 
 💬 Discord.js
+
+
+
+## 🔧 Install Dependencies
+Make sure you have Node.js installed. Then, open a terminal in your bot's folder and run:
+
+`npm install`
+
+This installs all the required packages (like discord.js and discord-fivem-api).
+
+
+## 🔑 2. Set Up Your Configuration
+
+Make sure:
+
+ - You’ve already sent a placeholder message in the desired channel and copied its message ID to use as fmessage.
+
+ - The bot has permission to view, send, embed links, manage messages, and read message history in that channel.
+
+
+
+## 🏁 3. Start the Bot
+Once everything is configured, run the bot with:
+
+`node index.js`
