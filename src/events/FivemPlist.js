@@ -26,7 +26,7 @@ module.exports = {
    * @param {Client} client
    */
   async execute(client) {
-    const staffRoleId = '1276084490032123967'; 
+    const staffRoleId = 'staffroleid'; 
     const { DiscordFivemApi } = require('discord-fivem-api');
 const options = {
   address: config.StatusIP,
