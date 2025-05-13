@@ -37,7 +37,7 @@ project-folder/
 
 ### 3. ⚙️ `config.json` Example
 
-```{
+``{
   "StatusIP": "your.server.ip",
   "port": "30120",
   "guildid": "YOUR_GUILD_ID",
@@ -45,7 +45,7 @@ project-folder/
   "fmessage": "MESSAGE_ID_OF_FIRST_EMBED",
   "servername": "Your Server Name",
   "ip": "connect.yourserver.com"
-}
+}``
 
 
 
