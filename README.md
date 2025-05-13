@@ -20,20 +20,12 @@ Staff members are highlighted 🎓, and the bot automatically updates every 10 s
 
 ## ⚙️ Setup Instructions
 
-### 1. 🛠 Requirements
+### 🛠 Requirements
 - Node.js 16 or higher
 - Discord bot token
 - Your FiveM server IP and port
 - Proper permissions for the bot to send/edit/delete messages
 
-### 2. 📁 File Structure
-
-project-folder/```
-├── config.json
-├── messageData.json
-├── events/
-│ └── ready.js
-├── index.js```
 
 
 
