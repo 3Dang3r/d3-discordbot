@@ -68,14 +68,6 @@ project-folder/
 
 - Keep your bot running 24/7 using a hosting service like PM2, Heroku, or a VPS.
 
-## 🧰 Credits
-👨‍💻 Bot Developer: Dang3r
-
-🧩 API Used: [discord-fivem-api](https://github.com/xliel/discord-fivem-api)
-
-💬 Discord.js
-
-
 
 ## 🔧 Install Dependencies
 Make sure you have Node.js installed. Then, open a terminal in your bot's folder and run:
@@ -99,3 +91,11 @@ Make sure:
 Once everything is configured, run the bot with:
 
 `node index.js`
+
+
+## 🧰 Credits
+👨‍💻 Bot Developer: Dang3r
+
+🧩 API Used: [discord-fivem-api](https://github.com/xliel/discord-fivem-api)
+
+💬 Discord.js
