@@ -70,7 +70,7 @@ Make sure:
 ## 🏁 3. Start the Bot
 Once everything is configured, run the bot with:
 
-run the `run.bat` file
+ `run.bat` file
 
 
 ## 🧰 Credits
