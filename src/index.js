@@ -35,7 +35,3 @@ client.on('interactionCreate', async interaction => {
       await handler.handleInteraction(interaction);
   }
 });
-
-//31.214.245.144:30120 - ERRP
-//191.96.229.92:30120 = ERDM
-//185.185.134.252:30120 Gamers
